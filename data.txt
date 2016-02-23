@@ -1,0 +1,379 @@
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1805</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Diamond_Rock" title="Battle of Diamond Rock">Diamond Rock</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Cape_Finisterre_(1805)" title="Battle of Cape Finisterre (1805)">Cape Finisterre</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Wertingen" title="Battle of Wertingen">Wertingen</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_G%C3%BCnzburg" title="Battle of Günzburg">Günzburg</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Haslach-Jungingen" title="Battle of Haslach-Jungingen">Haslach-Jungingen</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Elchingen" title="Battle of Elchingen">Elchingen</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Ulm" title="Battle of Ulm">Ulm</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Verona_(1805)" title="Battle of Verona (1805)">Verona</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Trafalgar" title="Battle of Trafalgar">Trafalgar</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Caldiero_(1805)" title="Battle of Caldiero (1805)">Caldiero</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Cape_Ortegal" title="Battle of Cape Ortegal">Cape Ortegal</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Amstetten" title="Battle of Amstetten">Amstetten</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_D%C3%BCrenstein" title="Battle of Dürenstein">Dürenstein</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Sch%C3%B6ngrabern" title="Battle of Schöngrabern">Schöngrabern</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Austerlitz" title="Battle of Austerlitz">Austerlitz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1806</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Gaeta_(1806)" title="Siege of Gaeta (1806)">Gaeta</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Campo_Tenese" title="Battle of Campo Tenese">Campo Tenese</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Maida" title="Battle of Maida">Maida</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Schleiz" title="Battle of Schleiz">Schleiz</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Saalfeld" title="Battle of Saalfeld">Saalfeld</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Jena%E2%80%93Auerstedt" title="Battle of Jena–Auerstedt">Jena–Auerstedt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Capitulation_of_Erfurt" title="Capitulation of Erfurt">Erfurt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Halle" title="Battle of Halle">Halle</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Magdeburg_(1806)" title="Siege of Magdeburg (1806)">Magdeburg</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Prenzlau" title="Battle of Prenzlau">Prenzlau</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Capitulation_of_Pasewalk" title="Capitulation of Pasewalk">Pasewalk</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Capitulation_of_Stettin" title="Capitulation of Stettin">Stettin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Waren-Nossentin" title="Battle of Waren-Nossentin">Waren-Nossentin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_L%C3%BCbeck" title="Battle of Lübeck">Lübeck</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Greater_Poland_Uprising_(1806)" title="Greater Poland Uprising (1806)">Greater Poland Uprising</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Hameln" title="Siege of Hameln">Hameln</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Czarnowo" title="Battle of Czarnowo">Czarnowo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Golymin" title="Battle of Golymin">Golymin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Pu%C5%82tusk" title="Battle of Pułtusk">Pułtusk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1807</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Mohrungen" title="Battle of Mohrungen">Mohrungen</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Stralsund_(1807)" title="Siege of Stralsund (1807)">Stralsund</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Eylau" title="Battle of Eylau">Eylau</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Ostro%C5%82%C4%99ka_(1807)" title="Battle of Ostrołęka (1807)">Ostrołęka</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Kolberg_(1807)" title="Siege of Kolberg (1807)">Kolberg</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Danzig_(1807)" title="Siege of Danzig (1807)">Danzig</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Mileto" title="Battle of Mileto">Mileto</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Guttstadt-Deppen" title="Battle of Guttstadt-Deppen">Guttstadt-Deppen</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Heilsberg" title="Battle of Heilsberg">Heilsberg</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Friedland" title="Battle of Friedland">Friedland</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Invasion_of_Portugal_(1807)" title="Invasion of Portugal (1807)">Invasion of Portugal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1808</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Dos_de_Mayo_Uprising" title="Dos de Mayo Uprising">Dos de Mayo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Combat_of_El_Bruch" title="Combat of El Bruch">Bruch</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Capture_of_the_Rosily_Squadron" title="Capture of the Rosily Squadron">Rosily Squadron</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Cabez%C3%B3n" title="Battle of Cabezón">Cabezón</a></li>
+<li><a href="https://en.wikipedia.org/wiki/First_Siege_of_Zaragoza" title="First Siege of Zaragoza">1st Zaragoza</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Valencia_(1808)" title="Battle of Valencia (1808)">Valencia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Medina_de_Rioseco" title="Battle of Medina de Rioseco">Medina de Rioseco</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Bail%C3%A9n" title="Battle of Bailén">Bailén</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Roli%C3%A7a" title="Battle of Roliça">Roliça</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Vimeiro" title="Battle of Vimeiro">Vimeiro</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Pancorbo_(1808)" title="Battle of Pancorbo (1808)">Pancorbo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Valmaseda" title="Battle of Valmaseda">Valmaseda</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Burgos" title="Battle of Burgos">Burgos</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Espinosa_de_los_Monteros" title="Battle of Espinosa de los Monteros">Espinosa</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Tudela" title="Battle of Tudela">Tudela</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Somosierra" title="Battle of Somosierra">Somosierra</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Second_Siege_of_Zaragoza" title="Second Siege of Zaragoza">2nd Zaragoza</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Sahag%C3%BAn" title="Battle of Sahagún">Sahagún</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Benavente" title="Battle of Benavente">Benavente</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1809</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Castell%C3%B3n" title="Battle of Castellón">Castellón</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Ucl%C3%A9s_(1809)" title="Battle of Uclés (1809)">Uclés</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Corunna" title="Battle of Corunna">Corunna</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Valls" title="Battle of Valls">Valls</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tyrolean_Rebellion" title="Tyrolean Rebellion">Tyrolean Rebellion</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Villafranca_(1809)" title="Battle of Villafranca (1809)">Villafranca</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Los_Y%C3%A9benes" title="Battle of Los Yébenes">Yevenes/Yébenes</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Ciudad_Real" title="Battle of Ciudad Real">Ciudad Real</a></li>
+<li><a href="https://en.wikipedia.org/wiki/First_Battle_of_Porto" title="First Battle of Porto">1st Porto</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Medell%C3%ADn" title="Battle of Medellín">Medellín</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battles_of_Bergisel" title="Battles of Bergisel">Bergisel</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Sacile" title="Battle of Sacile">Sacile</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Teugen-Hausen" title="Battle of Teugen-Hausen">Teugen-Hausen</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Raszyn_(1809)" title="Battle of Raszyn (1809)">Raszyn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Abensberg" title="Battle of Abensberg">Abensberg</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Landshut_(1809)" title="Battle of Landshut (1809)">Landshut</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Eckm%C3%BChl" title="Battle of Eckmühl">Eckmühl</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Ratisbon" title="Battle of Ratisbon">Ratisbon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Neumarkt-Sankt_Veit" title="Battle of Neumarkt-Sankt Veit">Neumarkt-Sankt Veit</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dalmatian_Campaign_(1809)" title="Dalmatian Campaign (1809)">Dalmatian Campaign</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Ebelsberg" title="Battle of Ebelsberg">Ebelsberg</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Third_Siege_of_Gerona" title="Third Siege of Gerona">Gerona</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Piave_River_(1809)" title="Battle of Piave River (1809)">Piave River</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Grij%C3%B3" title="Battle of Grijó">Grijó</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Second_Battle_of_Porto" title="Second Battle of Porto">2nd Porto</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_W%C3%B6rgl" title="Battle of Wörgl">Wörgl</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Tarvis_(1809)" title="Battle of Tarvis (1809)">Tarvis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Aspern-Essling" title="Battle of Aspern-Essling">Aspern-Essling</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Alca%C3%B1iz" title="Battle of Alcañiz">Alcañiz</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Sankt_Michael" title="Battle of Sankt Michael">Sankt Michael</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Stralsund_(1809)" title="Battle of Stralsund (1809)">Stralsund</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Raab" title="Battle of Raab">Raab</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Mar%C3%ADa" title="Battle of María">María</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Graz" title="Battle of Graz">Graz</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Wagram" title="Battle of Wagram">Wagram</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Combat_of_Korneuburg" title="Combat of Korneuburg">Korneuburg</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Combat_of_Stockerau" title="Combat of Stockerau">Stockerau</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Gefrees" title="Battle of Gefrees">Gefrees</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Hollabrunn_(1809)" title="Battle of Hollabrunn (1809)">Hollabrunn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Combat_of_Sch%C3%B6ngrabern" title="Combat of Schöngrabern">Schöngrabern</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Armistice_of_Znaim" title="Armistice of Znaim">Armistice of Znaim</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Talavera" title="Battle of Talavera">Talavera</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Walcheren_Campaign" title="Walcheren Campaign">Walcheren Campaign</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_%C3%96lper_(1809)" title="Battle of Ölper (1809)">Ölper</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Almonacid" title="Battle of Almonacid">Almonacid</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Tamames" title="Battle of Tamames">Tamames</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Oca%C3%B1a" title="Battle of Ocaña">Ocaña</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Alba_de_Tormes" title="Battle of Alba de Tormes">Alba de Tormes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1810</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_C%C3%A1diz" title="Siege of Cádiz">Cádiz</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Astorga" title="Siege of Astorga">Astorga</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Ciudad_Rodrigo_(1810)" title="Siege of Ciudad Rodrigo (1810)">Ciudad Rodrigo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Combat_of_Barquilla_(1810)" title="Combat of Barquilla (1810)">Barquilla</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_the_C%C3%B4a" title="Battle of the Côa">Côa</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Almeida_(1810)" title="Siege of Almeida (1810)">Almeida</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Bussaco" title="Battle of Bussaco">Bussaco</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1811</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_the_Gebora" title="Battle of the Gebora">Gebora</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Barrosa" title="Battle of Barrosa">Barrosa</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Pombal" title="Battle of Pombal">Pombal</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Redinha" title="Battle of Redinha">Redinha</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Casal_Novo" title="Battle of Casal Novo">Casal Novo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Campo_Maior" title="Battle of Campo Maior">Campo Maior</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Sabugal" title="Battle of Sabugal">Sabugal</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blockade_of_Almeida" title="Blockade of Almeida">Almeida</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Fuentes_de_O%C3%B1oro" title="Battle of Fuentes de Oñoro">Fuentes de Oñoro</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Tarragona_(1811)" title="Siege of Tarragona (1811)">Tarragona</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Albuera" title="Battle of Albuera">Albuera</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Usagre" title="Battle of Usagre">Usagre</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Saguntum" title="Battle of Saguntum">Saguntum</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Arroyo_dos_Molinos" title="Battle of Arroyo dos Molinos">Arroyo dos Molinos</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Valencia_(1812)" title="Siege of Valencia (1812)">Valencia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1812</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Ciudad_Rodrigo_(1812)" title="Siege of Ciudad Rodrigo (1812)">Ciudad Rodrigo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Badajoz_(1812)" title="Siege of Badajoz (1812)">Badajoz</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Villagarcia" title="Battle of Villagarcia">Villagarcia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Almaraz" title="Battle of Almaraz">Almaraz</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Maguilla" title="Battle of Maguilla">Maguilla</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Mir_(1812)" title="Battle of Mir (1812)">Mir</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Salamanca" title="Battle of Salamanca">Salamanca</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Garcia_Hernandez" title="Battle of Garcia Hernandez" class="mw-redirect">Garcia Hernandez</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Saltanovka" title="Battle of Saltanovka">Saltanovka</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Ostrovno" title="Battle of Ostrovno">Ostrovno</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Vitebsk_(1812)" title="Battle of Vitebsk (1812)">Vitebsk</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Klyastitsy" title="Battle of Klyastitsy">Klyastitsy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Majadahonda" title="Battle of Majadahonda">Majadahonda</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812)" title="Battle of Smolensk (1812)">Smolensk</a></li>
+<li><a href="https://en.wikipedia.org/wiki/First_Battle_of_Polotsk" title="First Battle of Polotsk">1st Polotsk</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Valutino" title="Battle of Valutino">Valutino</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Mesoten" title="Battle of Mesoten">Mesoten</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Borodino" title="Battle of Borodino">Borodino</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Burgos" title="Siege of Burgos">Burgos</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Tarutino" title="Battle of Tarutino">Tarutino</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Second_Battle_of_Polotsk" title="Second Battle of Polotsk">2nd Polotsk</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Venta_del_Pozo" title="Battle of Venta del Pozo">Venta del Pozo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets" title="Battle of Maloyaroslavets">Maloyaroslavets</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Chashniki" title="Battle of Chashniki">Chashniki</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Vyazma" title="Battle of Vyazma">Vyazma</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Smoliani" title="Battle of Smoliani">Smoliani</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Krasnoi" title="Battle of Krasnoi">Krasnoi</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Berezina" title="Battle of Berezina">Berezina</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1813</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Castalla" title="Battle of Castalla">Castalla</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_L%C3%BCtzen_(1813)" title="Battle of Lützen (1813)">Lützen</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Bautzen" title="Battle of Bautzen">Bautzen</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Tarragona_(1813)" title="Siege of Tarragona (1813)">Tarragona</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Luckau" title="Battle of Luckau">Luckau</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Vitoria" title="Battle of Vitoria">Vitoria</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_San_Sebasti%C3%A1n" title="Siege of San Sebastián">San Sebastián</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_the_Pyrenees" title="Battle of the Pyrenees">Pyrenees</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Sorauren" title="Battle of Sorauren">Sorauren</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Gro%C3%9Fbeeren" title="Battle of Großbeeren">Großbeeren</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Katzbach" title="Battle of Katzbach">Katzbach</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Dresden" title="Battle of Dresden">Dresden</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Kulm" title="Battle of Kulm">1st Kulm</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_San_Marcial" title="Battle of San Marcial">San Marcial</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Dennewitz" title="Battle of Dennewitz">Dennewitz</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Second_Battle_of_Kulm" title="Second Battle of Kulm">2nd Kulm</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_the_G%C3%B6hrde" title="Battle of the Göhrde">Göhrde</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_the_Bidassoa" title="Battle of the Bidassoa">Bidassoa</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Leipzig" title="Battle of Leipzig">Leipzig</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Hanau" title="Battle of Hanau">Hanau</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Nivelle" title="Battle of Nivelle">Nivelle</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Bornh%C3%B6ved_(1813)" title="Battle of Bornhöved (1813)">Bornhöved</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Sehested" title="Battle of Sehested">Sehested</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1814</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Brienne" title="Battle of Brienne">Brienne</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_La_Rothi%C3%A8re" title="Battle of La Rothière">La Rothière</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_the_Mincio_River_(1814)" title="Battle of the Mincio River (1814)">Mincio River</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Champaubert" title="Battle of Champaubert">Champaubert</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Montmirail" title="Battle of Montmirail">Montmirail</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Ch%C3%A2teau-Thierry_(1814)" title="Battle of Château-Thierry (1814)">Château-Thierry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Vauchamps" title="Battle of Vauchamps">Vauchamps</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Garris" title="Battle of Garris">Garris</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Mormans" title="Battle of Mormans" class="mw-redirect">Mormans</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Montereau" title="Battle of Montereau">Montereau</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Orthez" title="Battle of Orthez">Orthez</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Bar-sur-Aube" title="Battle of Bar-sur-Aube">Bar-sur-Aube</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Laon" title="Battle of Laon">Laon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Reims_(1814)" title="Battle of Reims (1814)">Reims</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Craonne" title="Battle of Craonne">Craonne</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Arcis-sur-Aube" title="Battle of Arcis-sur-Aube">Arcis-sur-Aube</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_F%C3%A8re-Champenoise" title="Battle of Fère-Champenoise">Fère-Champenoise</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Saint-Dizier" title="Battle of Saint-Dizier">Saint-Dizier</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Montmartre" title="Battle of Montmartre" class="mw-redirect">Montmartre</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Paris_(1814)" title="Battle of Paris (1814)">Paris</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Toulouse_(1814)" title="Battle of Toulouse (1814)">Toulouse</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Bayonne" title="Battle of Bayonne">Bayonne</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;padding-left:0;padding-right:0;background-color:#DCDCDC;">
+<div style="padding:0em 0.75em;">1815</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_the_Panaro" title="Battle of the Panaro">Panaro</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Occhiobello" title="Battle of Occhiobello">Occhiobello</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Carpi_(1815)" title="Battle of Carpi (1815)">Carpi</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Casaglia" title="Battle of Casaglia">Casaglia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Ronco" title="Battle of Ronco">Ronco</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Cesenatico" title="Battle of Cesenatico">Cesenatico</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Pesaro" title="Battle of Pesaro">Pesaro</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Scapezzano" title="Battle of Scapezzano">Scapezzano</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Tolentino" title="Battle of Tolentino">Tolentino</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Ancona" title="Siege of Ancona">Ancona</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Castel_di_Sangro" title="Battle of Castel di Sangro">Castel di Sangro</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_San_Germano" title="Battle of San Germano">San Germano</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Siege_of_Gaeta_(1815)" title="Siege of Gaeta (1815)">Gaeta</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Quatre_Bras" title="Battle of Quatre Bras">Quatre Bras</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Ligny" title="Battle of Ligny">Ligny</a></li>
+<li><strong class="selflink">Waterloo</strong></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Wavre" title="Battle of Wavre">Wavre</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Rocheserviere" title="Battle of Rocheserviere">Rocheserviere</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_La_Suffel" title="Battle of La Suffel">La Suffel</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Rocquencourt" title="Battle of Rocquencourt">Rocquencourt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Issy" title="Battle of Issy">Issy</a></li>
+</ul>
