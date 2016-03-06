@@ -1,3 +1,65 @@
+# The basic analysis to data from Napolean war battle
+
+## Data location
+
+Data was saved in NaD3.xlsx .
+
+## About Data
+
+Following sections is copyed from the post from "Chinese Napolean forum ".
+
+http://bbs.napolun.com/forum.php?mod=viewthread&tid=38675&highlight=
+
+This projects collect and clean up summary part by 200+ wikipedia pages in Napoleonic Wars category.The core is extracting the quantization information.If you are interested in empirical research,you would to look it for fun. Most of the pages are mapped to a record of table. There records to contain variables as name,backend(eg. peninsula war),location,result,commander,strengths,strength losses etc.
+
+I run a Python crawler to scratch these pages and extract data by bs4.BeautifulSoup. Aften that, I hand tag who victory is and merge "big victory","small victory"etc to a single "victory" class. However,some battle strength is recorded by range format,I map these to its mean,if a battle is related to many fields,I will aggregation them.If presence numbers and engaged number is different,I take engaged numbers.So the data is unique ,this lead it can be empirical analyzed.
+
+* It only included battles between 1805 and 1815.
+* Its type includes sea,siege,land.Please notice the difference if you found a strange number.
+* If a table is farther right for another, then the table is processing more than another except table Exam.
+
+My motivation to do this project is two papers below:
+
+* [1] Ruobing Liang. Climate impact and the religious cases in the End of Qing Dynasty [J]. Economics (Quarterlu),2014,04:1557-1584.
+* [2] Qiang Chen Climate impact,Dynasty period and the conquest of nomadic people. [J]. Economics (Quarterlu),2015,01:373-394.
+
+However, battle data is more complex than their object of study, as battle data lack the effect of aggregation. Selecting a regress model is hard and every time soldiers fighting capacity are not homogeneity.For example,I sum the Spain strength and Britsh strength into allies strength factors of Penisula War. While it made some sense, but I feel it is not matching my ideal object of study (eg. commander ability).
+
+## A simple analysis
+
+I estaablish the logistic model in 157 battles filtered from all battles. The dependent variables is dummy variable that is 1 if allies is victory 0 if french is victory.Independent variables include StrengthF(the strength of French),StrengthA(the strength of allies),Napolean,MichelNey,JoachimMurat,WW(dummy variable,if his name appears in wiki summary commander items is 1 else 0. WW represents Wellington/Wellesley). This model got a 65% accuracy,it's poor,but it's only a simple example.
+
+regress summary
+
+
+                          B        S.E,        Wals          df         Sig.      Exp (B)
+        StrengthF        .000        .000        2.880        1        .090        1.000
+        StrengthA        .000        .000        7.202        1        .007        1.000
+        Napolean       -1.937        .689        7.892        1        .005        .144
+        MichelNey      -1.550        .747        4.302        1        .038        .212
+        JoachimMurat     .950        .606        2.456        1        .117        2.586
+        WW              2.276        .734        9.608        1        .002        9.736
+        Constant        -.257        .267        .923         1        .337        .774
+
+
+The estimated regression coefficient in logistic models has not an explicit explain as ordinary linear model. You can see relevant books for details. But in this case, I will show some special scenes to show the effect of these independent variables. The baseline scene is 50000 French vs 50000 allies without commander dummy variables.
+
+Q is predict probability of allies victory by model.
+P is sig indicator in the table above.
+
+### Special case predict and explain
+
+* 50000 French VS 50000 Allies Q=46% (This imply the French fighting capacity is more than Allies)
+* 75000 French VS 50000 Allies 30%
+* 50000 French VS 75000 Allies 64%
+* 50000 French + Napolean VS 50000 Allies 11% (Napolean's bonus is significance!)
+* 50000 French + Ney VS 50000 Allies 15 % (P=0.038 it is reject null hypothesis for alpha=0.05 )
+* 50000 French + Murat VS 50000 Allies 68% (However, Murat bonus is negetive ,though it is not significance.)
+* 50000 French VS 50000 Allies + Wellington 89% (Wellington's bonus is significance too.)
+* 50000 French VS 50000 Allies + Wellington 63% (Wellington 's ability is more than Ney.It also can be seen in regression coefficient.)
+
+Why Murat'bonus is negative? Because he is loss so many battles over 1815. This bad record pulled down the score model to assign to him by likelihood function used by model. The negative and positive is compare to "mean effect" baseline."mean effect" means ,for example, Blucher,Davout and other unconsidered commander's mean effect.Murat is bad at them mean ability.It has some fitfall,because you can't identify the effect of Murat not as a main commander (so he didn't appear the wiki commander item) in the field. 
+
 # 拿破仑战争战役数据及粗略分析
 
 ## 数据
@@ -37,6 +99,8 @@ http://bbs.napolun.com/forum.php?mod=viewthread&tid=38675&highlight=
         JoachimMurat     .950        .606        2.456        1        .117        2.586
         WW              2.276        .734        9.608        1        .002        9.736
         常量            -.257        .267        .923         1        .337        .774
+
+logistic回归的系数不想线性回归那样好解释。具体含义可以去看相关资料。这里我给出一些例子来比较。以50000法军兵力对阵50000联军兵力的预测概率为标准，比较各种情况。
 
 下面的概率可以看成联军胜率Q，或者1-Q就得到了法军胜率。（下文的P是指上面那个表的sig值，显著性水平，这个值粗略地说可以看成其对模型影响为0的概率，所以对于其存在感该值越低越好）
 
